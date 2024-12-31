@@ -8,6 +8,11 @@ Lectures
 - [물리지식기반 인공지능 by iAI KAIST](https://www.youtube.com/playlist?list=PLGMtjo8jDX9D9ZDd_Kv7KA5extPDx7rEQ)
 - [ETH Zürich | AI in the Sciences and Engineering 2024](https://www.youtube.com/playlist?list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
 
+Papers
+
+- [Raissi, M., Perdikaris, P. & Karniadakis, G. E. Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. J. Comput. Phys. 378, 686–707 (2019).](https://doi.org/10.1016/j.jcp.2018.10.045)
+- [Sel, K., Mohammadi, A., Pettigrew, R. I. & Jafari, R. Physics-informed neural networks for modeling physiological time series for cuffless blood pressure estimation. npj Digit. Med. 6, 110 (2023).](https://doi.org/10.1038/s41746-023-00853-4)
+  
 
 ## The FlyWire connectome
 
