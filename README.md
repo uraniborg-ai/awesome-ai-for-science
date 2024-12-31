@@ -4,8 +4,10 @@
 
 Lectures
 
+- [Physics Informed Machine Learning by Steve Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa&si=gsx7NuLE6EDK8HQW)
 - [물리지식기반 인공지능 by iAI KAIST](https://www.youtube.com/playlist?list=PLGMtjo8jDX9D9ZDd_Kv7KA5extPDx7rEQ)
 - [ETH Zürich | AI in the Sciences and Engineering 2024](https://www.youtube.com/playlist?list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
+
 
 ## The FlyWire connectome
 
@@ -35,9 +37,6 @@ Commentary Lectures on the 2024 Nobel Prize Discoveries by KAIST Advanced Instit
 
 - [[강연] 기계학습과 물리학: 생성형 인공지능의 원리_by 조정효](https://youtu.be/019w_MEXGKQ?si=kfspnT3WVdKBq2oa)
 
-Google DeepMind
-
-- [AI for Science Forum | The Royal Society | Google DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZBwZQwCxzIlsyFxC3WKH_Ii)
 
 ## Courses
 
