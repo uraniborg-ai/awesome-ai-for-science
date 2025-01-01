@@ -30,10 +30,10 @@ Public Lectures by 안될과학
 
 물리학과 첨단기술 2024년 12월 33권 12호 ([PDF](https://webzine.kps.or.kr/inc/down.php?fileIdx=12024))
 
-- 최적화: 기계학습의 심오한 수수께끼 by 노영균 [(doi:10.3938/PhiT.33.033)](https://doi.org/10.3938/PhiT.33.033)
-- 신경망, 확률, 그리고 정보 by 조정효 [(doi:10.3938/PhiT.33.034)](https://doi.org/10.3938/PhiT.33.034)
-- 비평형 통계역학과 확산 모델의 만남 by 한정훈 [(doi:10.3938/PhiT.33.035)](https://doi.org/10.3938/PhiT.33.035)
-- 신경망과 양자다체계산 by 김동희 [(doi:10.3938/PhiT.33.036)](https://doi.org/10.3938/PhiT.33.036)
+- [최적화: 기계학습의 심오한 수수께끼 by 노영균 (doi:10.3938/PhiT.33.033)](https://doi.org/10.3938/PhiT.33.033)
+- [신경망, 확률, 그리고 정보 by 조정효 (doi:10.3938/PhiT.33.034)](https://doi.org/10.3938/PhiT.33.034)
+- [비평형 통계역학과 확산 모델의 만남 by 한정훈 (doi:10.3938/PhiT.33.035)](https://doi.org/10.3938/PhiT.33.035)
+- [신경망과 양자다체계산 by 김동희 (doi:10.3938/PhiT.33.036)](https://doi.org/10.3938/PhiT.33.036)
 
 Commentary Lectures on the 2024 Nobel Prize Discoveries by KAIST Advanced Institute for Science-X
 
