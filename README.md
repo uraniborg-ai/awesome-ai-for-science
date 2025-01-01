@@ -26,12 +26,14 @@ Public Lectures by 안될과학
 - [[네이처 특별발표!]초파리 성체 뇌지도 완성! 과연 어떻게 가능했을까? 초파리 뇌지도로 알 수 있는 것은 무엇일까?! 다음 뇌지도는 OO이다? (서울대학교 배준환 박사 2부)](https://youtu.be/88wFL8g2qco?si=QrDt5VoMNytu81Ao)
 
 
-## Events
+## Nobel Prize 2024
 
-Terence Tao
+물리학과 첨단기술 2024년 12월 33권 12호 ([PDF](https://webzine.kps.or.kr/inc/down.php?fileIdx=12024))
 
-- [Terence Tao at IMO 2024: AI and Mathematics](https://youtu.be/e049IoFBnLA?si=l9bk7IIgSsipQhjR)
-- [The Potential for AI in Science and Mathematics - Terence Tao | Oxford Mathematics](https://youtu.be/_sTDSO74D8Q?si=sdqdoXIoqxWWsNk8)
+- 최적화: 기계학습의 심오한 수수께끼 by 노영균 [(doi:10.3938/PhiT.33.033)](https://doi.org/10.3938/PhiT.33.033)
+- 신경망, 확률, 그리고 정보 by 조정효 [(doi:10.3938/PhiT.33.034)](https://doi.org/10.3938/PhiT.33.034)
+- 비평형 통계역학과 확산 모델의 만남 by 한정훈 [(doi:10.3938/PhiT.33.035)](https://doi.org/10.3938/PhiT.33.035)
+- 신경망과 양자다체계산 by 김동희 [(doi:10.3938/PhiT.33.036)](https://doi.org/10.3938/PhiT.33.036)
 
 Commentary Lectures on the 2024 Nobel Prize Discoveries by KAIST Advanced Institute for Science-X
 
@@ -41,6 +43,13 @@ Commentary Lectures on the 2024 Nobel Prize Discoveries by KAIST Advanced Instit
 고등과학원&카오스재단 '2024 노벨상 해설강연'
 
 - [[강연] 기계학습과 물리학: 생성형 인공지능의 원리_by 조정효](https://youtu.be/019w_MEXGKQ?si=kfspnT3WVdKBq2oa)
+
+## Events
+
+Terence Tao
+
+- [Terence Tao at IMO 2024: AI and Mathematics](https://youtu.be/e049IoFBnLA?si=l9bk7IIgSsipQhjR)
+- [The Potential for AI in Science and Mathematics - Terence Tao | Oxford Mathematics](https://youtu.be/_sTDSO74D8Q?si=sdqdoXIoqxWWsNk8)
 
 
 ## Courses
