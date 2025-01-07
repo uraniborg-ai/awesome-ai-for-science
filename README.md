@@ -56,6 +56,12 @@ Terence Tao
 
 ## Courses
 
+한경훈
+
+- [딥러닝 I](https://youtube.com/playlist?list=PLBiQZMT3oSxW1RS1hn2jWBgswh0nlcgQZ&si=UThY-1ASgyGE2zs4)
+- [딥러닝 II](https://youtube.com/playlist?list=PLBiQZMT3oSxXNGcmAwI7vzh2LzwcwJpxU&si=W8Wf-iX8mvJGwYVQ)
+- [딥러닝 III](https://youtube.com/playlist?list=PLBiQZMT3oSxV3RxoFgNcUNV4R7AlvUMDx&si=u4NTA3HmaHGQYmsg)
+
 Artem Kirsanov
 
 - [AI & Machine Learning](https://youtube.com/playlist?list=PLgtmMKe4spCPsxyMpg-sxf3EcbsFYlzPK&si=gdrZPwxnHy6ququm)
